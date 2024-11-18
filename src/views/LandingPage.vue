@@ -17,7 +17,7 @@ const properties = ref([
     bathrooms: 6,
     location: '123 Street, New York, USA',
     type: 'Apartment',
-    imageUrl: 'src/assets/images/landingpage/fourth.jpg',
+    imageUrl: '/landingpage/fourth.jpg',
     price: '$11,345',
   },
   {
@@ -27,7 +27,7 @@ const properties = ref([
     bathrooms: 6,
     location: '123 Street, New York, USA',
     type: 'Rent',
-    imageUrl: 'src/assets/images/landingpage/first.jpg',
+    imageUrl: '/landingpage/first.jpg',
     price: '$245 / Month',
   },
   {
@@ -37,7 +37,7 @@ const properties = ref([
     bathrooms: 6,
     location: '123 Street, New York, USA',
     type: 'Apartment',
-    imageUrl: 'src/assets/images/landingpage/fourth.jpg',
+    imageUrl: '/landingpage/fourth.jpg',
     price: '$12,345',
   },
   {
@@ -47,7 +47,7 @@ const properties = ref([
     bathrooms: 6,
     location: '123 Street, New York, USA',
     type: 'Apartment',
-    imageUrl: 'src/assets/images/landingpage/third.jpg',
+    imageUrl: '/landingpage/third.jpg',
     price: '$20,135',
   },
   {
@@ -57,7 +57,7 @@ const properties = ref([
     bathrooms: 6,
     location: '123 Street, New York, USA',
     type: 'Apartment',
-    imageUrl: 'src/assets/images/landingpage/second.jpg',
+    imageUrl: '/landingpage/second.jpg',
     price: '$10,215',
   },
   {
@@ -67,16 +67,16 @@ const properties = ref([
     bathrooms: 6,
     location: '123 Street, New York, USA',
     type: 'Apartment',
-    imageUrl: 'src/assets/images/landingpage/first.jpg',
+    imageUrl: '/landingpage/first.jpg',
     price: '$1,345 / Month',
   },
 ])
 
 const images = ref([
-  'src/assets/images/landingpage/first.jpg',
-  'src/assets/images/landingpage/second.jpg',
-  'src/assets/images/landingpage/third.jpg',
-  'src/assets/images/landingpage/fourth.jpg',
+  '/landingpage/first.jpg',
+  '/landingpage/second.jpg',
+  '/landingpage/third.jpg',
+  '/landingpage/fourth.jpg',
 ])
 
 const currentImageIndex = ref(0)
