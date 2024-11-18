@@ -29,25 +29,25 @@ const agents = ref([
     id: 1,
     name: 'Gandoki',
     designation: 'Web Developer',
-    image: 'src/assets/images/propertyagent/profilee.jpg',
+    image: '/propertyagent/profilee.jpg',
   },
   {
     id: 2,
     name: 'Gandoki',
     designation: 'Web Developer',
-    image: 'src/assets/images/propertyagent/profilee.jpg',
+    image: '/propertyagent/profilee.jpg',
   },
   {
     id: 3,
     name: 'Gandoki',
     designation: 'Web Developer',
-    image: 'src/assets/images/propertyagent/profilee.jpg',
+    image: '/propertyagent/profilee.jpg',
   },
   {
     id: 4,
     name: 'Gandoki',
     designation: 'Web Developer',
-    image: 'src/assets/images/propertyagent/profilee.jpg',
+    image: '/propertyagent/profilee.jpg',
   },
 ])
 </script>

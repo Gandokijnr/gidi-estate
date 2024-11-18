@@ -80,11 +80,11 @@
 import { RouterLink } from 'vue-router'
 
 const galleryImages = [
-  'src/assets/images/landingpage/second.jpg',
-  'src/assets/images/landingpage/second.jpg',
-  'src/assets/images/landingpage/second.jpg',
-  'src/assets/images/landingpage/second.jpg',
-  'src/assets/images/landingpage/second.jpg',
-  'src/assets/images/landingpage/second.jpg',
+  '/landingpage/second.jpg',
+  '/landingpage/second.jpg',
+  '/landingpage/second.jpg',
+  '/landingpage/second.jpg',
+  '/landingpage/second.jpg',
+  '/landingpage/second.jpg',
 ]
 </script>

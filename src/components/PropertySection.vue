@@ -3,7 +3,7 @@
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:p-20 p-8 border">
       <div class="relative">
         <img
-          src="../assets/images/propertysection/about.jpg"
+          src="/propertysection/about.jpg"
           alt="Pool and house"
           class="w-full h-auto rounded-lg shadow-lg"
         />

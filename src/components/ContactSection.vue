@@ -25,7 +25,7 @@
 
       <div class="relative">
         <img
-          src="../assets/images/contactsection/contact.jpg"
+          src="/contactsection/contact.jpg"
           alt="Pool and house"
           class="w-full h-auto rounded-lg shadow-lg"
         />

@@ -1,7 +1,7 @@
 <template>
   <div class="bg-white rounded-lg p-6 flex flex-col items-center container mx-auto py-12">
     <h2 class="text-2xl font-bold mb-4">Our Clients Say!</h2>
-    <div class="relative w-7/12">
+    <div class="relative w-11/12">
       <!-- Left Arrow -->
       <button
         @click="scrollLeft"
@@ -67,31 +67,31 @@ const scrollRight = () => {
 
 const clients = [
   {
-    avatar: 'src/assets/images/propertyagent/profilee.jpg',
+    avatar: '/propertyagent/profilee.jpg',
     quote: '"Lorem ipsum dolor sit amet, consectetur adipiscing elit."',
     name: 'Client Name',
     profession: 'Profession',
   },
   {
-    avatar: 'src/assets/images/propertyagent/profilee.jpg',
+    avatar: '/propertyagent/profilee.jpg',
     quote: '"Tempor sunt labore dolor cillum amet ipsum dolor dolore."',
     name: 'Client Name',
     profession: 'Profession',
   },
   {
-    avatar: 'src/assets/images/propertyagent/profilee.jpg',
+    avatar: '/propertyagent/profilee.jpg',
     quote: '"Tempor sunt labore dolor cillum amet ipsum dolor dolore."',
     name: 'Client Name',
     profession: 'Profession',
   },
   {
-    avatar: 'src/assets/images/propertyagent/profilee.jpg',
+    avatar: '/propertyagent/profilee.jpg',
     quote: '"Tempor sunt labore dolor cillum amet ipsum dolor dolore."',
     name: 'Client Name',
     profession: 'Profession',
   },
   {
-    avatar: 'src/assets/images/propertyagent/profilee.jpg',
+    avatar: '/propertyagent/profilee.jpg',
     quote: '"Tempor sunt labore dolor cillum amet ipsum dolor dolore."',
     name: 'Client Name',
     profession: 'Profession',
