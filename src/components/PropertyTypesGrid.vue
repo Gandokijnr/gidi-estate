@@ -44,42 +44,42 @@ const propertyTypes = [
   {
     type: 'Apartment',
     count: 123,
-    icon: 'src/assets/icons/icon-apartment.png',
+    icon: '/icons/icon-apartment.png',
   },
   {
     type: 'Villa',
     count: 123,
-    icon: 'src/assets/icons/icon-villa.png',
+    icon: '/icons/icon-villa.png',
   },
   {
     type: 'Home',
     count: 123,
-    icon: 'src/assets/icons/icon-house.png',
+    icon: '/icons/icon-house.png',
   },
   {
     type: 'Office',
     count: 123,
-    icon: 'src/assets/icons/icon-luxury.png',
+    icon: '/icons/icon-luxury.png',
   },
   {
     type: 'Building',
     count: 123,
-    icon: 'src/assets/icons/icon-building.png',
+    icon: '/icons/icon-building.png',
   },
   {
     type: 'Townhouse',
     count: 123,
-    icon: 'src/assets/icons/icon-neighborhood.png',
+    icon: '/icons/icon-neighborhood.png',
   },
   {
     type: 'Shop',
     count: 123,
-    icon: 'src/assets/icons/icon-condominium.png',
+    icon: '/icons/icon-condominium.png',
   },
   {
     type: 'Garage',
     count: 123,
-    icon: 'src/assets/icons/icon-housing.png',
+    icon: '/icons/icon-housing.png',
   },
 ]
 </script>
