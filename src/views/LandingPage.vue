@@ -92,7 +92,7 @@ const prevImage = () => {
 </script>
 
 <template>
-  <div class="min-h-screen bg-white">
+  <div class="min-h-screen bg-white fade-in-top">
     <!-- Hero Section -->
     <div class="relative w-full max-w-7xl mx-auto">
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 p-4 lg:p-8">
@@ -117,7 +117,7 @@ const prevImage = () => {
         </div>
 
         <!-- Right Image Carousel -->
-        <div class="relative overflow-hidden rounded-lg">
+        <div class="relative overflow-hidden rounded-lg fade-in-right">
           <div class="relative h-[400px] w-full">
             <img
               :src="images[currentImageIndex]"
